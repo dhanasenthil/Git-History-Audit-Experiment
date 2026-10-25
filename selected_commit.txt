@@ -1,0 +1,20 @@
+commit 387c7e3ceb480f060ee353275a6bdafd23bbc8c6
+Author: dhana <dr.dhanasenthil@ksit.edu.in>
+Date:   Sun Oct 25 20:59:52 2026 +0530
+
+    add repository audit status and file verification
+
+diff --git a/student.txt b/student.txt
+index 7f9eb3f..a3ba614 100644
+--- a/student.txt
++++ b/student.txt
+@@ -7,4 +7,6 @@ Experiment: Repository History Audit
+ Purpose: Track and audit repository changes
+ add the laboratory status
+ 
+-Experiment: Repository History Audit verfication
+\ No newline at end of file
++Experiment: Repository History Audit verfication
++
++Purpose: Track and audit repository changes
+\ No newline at end of file
